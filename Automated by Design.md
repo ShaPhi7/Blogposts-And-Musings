@@ -1,6 +1,6 @@
 ## Automated by Design
 
-You’ve probably heard of secure by design, but why is nobody talking about automated by design? If you haven’t, all you need to know here is it’s the concept that security can never just be an afterthought. It must be built in properly, from the start of a project. It’s a concept that isn’t specific to software or technology. There’s plenty of good online resources for further reading on it.
+You’ve probably heard of secure by design, but why is nobody talking about automated by design? <em>If you haven’t, all you need to know here is it’s the concept that security can never just be an afterthought. It must be built in properly, from the start of a project. It’s a concept that isn’t specific to software or technology. There’s plenty of good online resources for further reading on it.</em>
 
 As a child I was a member of the scouting association, going on expeditions across Europe. The famed Scouting motto is a very simple two words: “Be Prepared”. These powerful two words can be applied to almost anything.
 
