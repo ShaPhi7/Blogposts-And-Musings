@@ -1,4 +1,4 @@
-##Automated by Design
+## Automated by Design
 
 You’ve probably heard of secure by design, but why is nobody talking about automated by design? If you haven’t, all you need to know here is it’s the concept that security can never just be an afterthought. It must be built in properly, from the start of a project. It’s a concept that isn’t specific to software or technology. There’s plenty of good online resources for further reading on it.
 
@@ -12,7 +12,7 @@ I recently saw the impact of this first hand as a team I’d just joined showed 
 
 At another company I worked in, there were over 100 steps in their monthly testing & deployment process, and whilst they had established that this made deployments take far too long and had automated some of the steps, it was still far too easy for developers to add in new steps to cater to their particular change. Every step needed to be completed every time code was deployed. This practice doesn’t just add more time to an already long process, but as the months and years pass, it becomes harder and harder to follow the steps required as the documents became out-of-date and the original developer was no longer around to help when a new complication was hit.
 
-#####The Automation Mindset
+### The Automation Mindset
 
 Imagine designing something that didn’t fully consider secure coding standards.
 
@@ -38,7 +38,7 @@ Good for them, but there’s already so much time lost by this point, and often,
 
 Proper automation requires proper design, for the same reason that Secure by Design principles exist. Yes, if we had to choose between automated and secure, we’d (hopefully) all pick secure. Yes, there won’t be compliance issues around the topic of automation as there are with security, but the two are not mutually exclusive. Without automation, there is a real risk of a team grinding to halt, making human errors, and failing to live up their full potential. The temptation with an Agile approach can be to cut corners on automation to deploy the core functionality of a product quickly, but this is not sustainable and will be slower in the long run.
 
-#####The Solution
+### The Solution
 
 “How can we automate this?” is a question that must be asked, and answered, during the design phase of a project. It should be explicitly listed as acceptance criteria. It’s as much about forming a team ethos around what the end goal is. Is the aim simply to deliver a working product, or is it to deliver a solution that is easily maintainable?
 
