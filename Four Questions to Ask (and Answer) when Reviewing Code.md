@@ -1,8 +1,12 @@
 ## 4 Questions to Ask (and Answer) when Reviewing Code
 
-I was thinking about a discussion with my team around how to get the most out of reviewing a Pull Request.
+What do you think about when you are reviewing code?
 
-I think I've narrowed it down to 4 questions I personally need to answer yes to in order to click 'approve':
+As an Agile team, we had identified that our code reviews weren’t consistent across the team. Expectations of what to expect in a code review, and what we should get out of the code review differed. This led to an open discussion about what we should be thinking about when reviewing code.
+
+I always advocate Agile team members discussing the development process that they use. Open discussion leads to learning opportunities and helps ensure the Agile principle: people over processes. If code reviews are never discussed amongst team members, the whole team will miss out on a massive learning opportunity. Worse still, the review itself may be ineffectual. 
+
+We went back-to-basics and came up with 4 questions that we’d aim to answer before clicking ‘approve’ for a piece of code.
 
 1) What is the change trying to achieve, and do I understand how it achieves this?
 2) How do I know the change works and isn't going to break anything?
