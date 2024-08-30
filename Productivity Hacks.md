@@ -1,6 +1,8 @@
 ## Productivity Hacks
 
-These ideas obviously doesn't just apply to coding. So why record it on GitHub? Well, it's because reading them when you're 'stuck' can help with reaffirmation of those ideas, and a renewal of spirit, in a nice central place that's a bit more work related than something like social media. I'm making an argument that just by reading productivity hacks, one becomes more productive. You are what you read.
+These ideas obviously doesn't just apply to coding. So why record it on GitHub? Well, it's because reading them when you're 'stuck' can help with reaffirmation of those ideas, and a renewal of spirit, in a nice central place that's a bit more work related than something like social media (I'll use social media as a reference through these ideas, as I believe it's the most common distraction, but really, these ideas apply to any distraction).
+
+I'm making an argument that just by reading productivity hacks, one becomes more productive. You are what you read.
 
 ### View the Day In Quarters
 
@@ -25,3 +27,15 @@ Sometimes, it just isn't going to happen. No matter how much you try, you're jus
 I have seen others who feel duty bound to remain at their desk, even though they're no longer productive. They'll be doing anything else, but they still haven't moved. They need to listen to their brain and give it the proper break that it needs. What would you rather do, achieve an hour of work that day whilst being sat in front of a computer all day, or take a walk, and then when you get back, nice and refreshed, achieve loads more work in a smaller amount of time?
 
 You've got to pay attention to your brain. Sometimes it just needs a rest, and that's fine.
+
+## Dopamine Time Delays
+
+Dopamine is a chemical that our brains release to tell us to keep doing something. Addictive sources, like social media, cause our brains to release dopamine, making us wanting to do more of the same.
+
+So to become more productive, we need to break the connection between wanting a distraction, and the reward of getting that distraction (i.e. the release of dopamine).
+
+One way to achieve this is when you feel that urge to check social media, set a timer before you may access it. This delay in response will help to break the connection. You can take this further by increasing the time delay by a minute each time. After the 5th check, you're waiting on a 5 minute timer. Hopefully, during this 5 minutes, you can be even more productive than normal. For me, I reset the timer back down to zero at the start of each new day.
+
+Moreover, you're going to want to be super-focussed because you know that in a few minutes, you'll be procrastinating. Over time, you'll find that the urge passes, and you power on through without even needing to look at the phone. You're getting your dopamine release from completing yout task, not from social media.
+
+There is also a side-game to play, to see how low you can keep the timer throughout the day. If you felt urges 10 times yesterday, ramping the timer up to 10 minutes, see if you can keep the timer below 9 minutes today.
