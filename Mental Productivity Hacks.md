@@ -49,3 +49,11 @@ I did this when writing my 50+ page thesis. I jotted down the current total numb
 Simiarly, when working on a project that I was struggling to make time for, I started a big board of all of my achievements, that could add to at the end of that day. If I went a few days at a time without working on it, then it became painfully obvious that I wasn't making time for it. 
 
 Of course, there are a couple of risks. This approach could add unwanted pressure, so use in coordination with other ideas, like knowing when to throw the towel in. Know yourself. There's also the risk that we end up working towards our recorded goal, rather than end result. For example, by recording my pages for my thesis, I was promoting quantity over quality. For me, this was ok, as the bit I'd found hardest was just to get something down on paper. Once it was there, refining it was easier. It all comes back to being honest with yourself, and treating yourself well. Happiness away from work will always shine through to your work.
+
+### Bribe Yourself
+
+I wasn't sure whether to include this one but I will, as it's a very basic idea that does work. If it works for you, then who is anyone else to judge?
+
+Want to eat that chocolate bar, or some other treat? Promise yourself that you're only going to eat it, once you are sat down and working! Sounds silly, sounds childish, but it works. You'll have got over that initial procrastination in no time, and be happily working and chomping away.
+
+More generally, treat yourself when you've done well. Please feel no guilt about giving yourself a reward if you've done really well that day. Give your brain a reason to release dopamine when you've done well at tasks, and it'll be easier to achieve success on those same tasks next time.
