@@ -40,7 +40,7 @@ Moreover, you're going to want to be super-focussed because you know that in a f
 
 There is also a side-game to play, to see how low you can keep the timer throughout the day. If you felt urges 10 times yesterday, ramping the timer up to 10 minutes, see if you can keep the timer below 9 minutes today.
 
-### Write Down Your Accompishments
+### Write Down Your Accomplishments
 
 Keep a diary, make a list, create a mindmap. Just find some way to keep track of what you've done. This helps keep you accountable to yourself. Sometimes we just need to visually see whether we need to put more effort into something.
 
