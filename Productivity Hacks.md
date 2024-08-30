@@ -17,3 +17,11 @@ This is one of my favourite ideas. Procrastination is natural, so harness it's p
 Ok, so I'm not saying ignore packing forever, but the killer part of procrastination is where we replace packing with time-waster activities like sitting on our phone. If you're going to procrastinate, it's more productive to not fight it, and get something productive done instead.
 
 I find this is especially motiviational when one task has a deadline. You know you WILL have to do that task sooner or later, so leave it to last and get everything else done first. If all you attempt is packing, then that shower (which has no deadline) is probably still not going to get cleaned.
+
+### Know When to Throw the Towel In
+
+Sometimes, it just isn't going to happen. No matter how much you try, you're just not making progress, for whatever reason. When this happens, take a break. I don't mean just looking at your phone. I mean a proper break. Get up, change your environment, go for a walk. Do something fun. It's a little bit like 'work hard, play hard'.
+
+I have seen others who feel duty bound to remain at their desk, even though they're no longer productive. They'll be doing anything else, but they still haven't moved. They need to listen to their brain and give it the proper break that it needs. What would you rather do, achieve an hour of work that day whilst being sat in front of a computer all day, or take a walk, and then when you get back, nice and refreshed, achieve loads more work in a smaller amount of time?
+
+You've got to pay attention to your brain. Sometimes it just needs a rest, and that's fine.
