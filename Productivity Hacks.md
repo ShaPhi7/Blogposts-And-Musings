@@ -1,4 +1,4 @@
-##Productivity Hacks
+## Productivity Hacks
 
 These ideas obviously doesn't just apply to coding. So why record it on GitHub? Well, it's because reading them when you're 'stuck' can help with reaffirmation of those ideas, and a renewal of spirit, in a nice central place that's a bit more work related than something like social media. I'm making an argument that just by reading productivity hacks, one becomes more productive. You are what you read.
 
