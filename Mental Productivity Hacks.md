@@ -28,7 +28,7 @@ I have seen others who feel duty bound to remain at their desk, even though they
 
 You've got to pay attention to your brain. Sometimes it just needs a rest, and that's fine.
 
-## Dopamine Time Delays
+### Dopamine Time Delays
 
 Dopamine is a chemical that our brains release to tell us to keep doing something. Addictive sources, like social media, cause our brains to release dopamine, making us wanting to do more of the same.
 
