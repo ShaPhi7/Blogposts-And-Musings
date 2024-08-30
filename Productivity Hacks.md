@@ -1,6 +1,8 @@
+##Productivity Hacks
+
 These ideas obviously doesn't just apply to coding. So why record it on GitHub? Well, it's because reading them when you're 'stuck' can help with reaffirmation of those ideas, and a renewal of spirit, in a nice central place that's a bit more work related than something like social media. I'm making an argument that just by reading productivity hacks, one becomes more productive. You are what you read.
 
-## View the Day In Quarters
+### View the Day In Quarters
 
 It can be tempting to treat an unproductive morning as a write-off day. Put simply, it feels bad to have not achieved your goal, regardless of whether this is because you spent the time procrastinating, or because whatever you were doing, just didn't work.
 
@@ -8,7 +10,7 @@ View the day in quarters - you've got early morning (before 10:00), late morning
 
 By doing this, you're openly admitting that ok, those last few hours didn't go to plan, but you can get back on it right now with the start of a new quarter-day. Keep going and good luck!
 
-## Productive Procrastination
+### Productive Procrastination
 
 This is one of my favourite ideas. Procrastination is natural, so harness it's power. If you've got a task that you know you procrastinate from (for me, it might be packing my bag), use that as motivation to force yourself to do another task that you procrastinate from (let's say, cleaning the shower that you've been putting off for a while).
 
