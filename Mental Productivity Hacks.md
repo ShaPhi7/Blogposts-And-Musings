@@ -39,3 +39,13 @@ One way to achieve this is when you feel that urge to check social media, set a 
 Moreover, you're going to want to be super-focussed because you know that in a few minutes, you'll be procrastinating. Over time, you'll find that the urge passes, and you power on through without even needing to look at the phone. You're getting your dopamine release from completing yout task, not from social media.
 
 There is also a side-game to play, to see how low you can keep the timer throughout the day. If you felt urges 10 times yesterday, ramping the timer up to 10 minutes, see if you can keep the timer below 9 minutes today.
+
+### Write Down Your Accompishments
+
+Keep a diary, make a list, create a mindmap. Just find some way to keep track of what you've done. This helps keep you accountable to yourself. Sometimes we just need to visually see whether we need to put more effort into something.
+
+I did this when writing my 50+ page thesis. I jotted down the current total number of pages each day into a diary I was keeping at the time, this gave me the drive to get that extra page in. If I didn't, it looked like I'd done less work that day. It kept me driven.
+
+Simiarly, when working on a project that I was struggling to make time for, I started a big board of all of my achievements, that could add to at the end of that day. If I went a few days at a time without working on it, then it became painfully obvious that I wasn't making time for it. 
+
+Of course, there are a couple of risks. This approach could add unwanted pressure, so use in coordination with other ideas, like knowing when to throw the towel in. Know yourself. There's also the risk that we end up working towards our recorded goal, rather than end result. For example, by recording my pages for my thesis, I was promoting quantity over quality. For me, this was ok, as the bit I'd found hardest was just to get something down on paper. Once it was there, refining it was easier. It all comes back to being honest with yourself, and treating yourself well. Happiness away from work will always shine through to your work.
